@@ -466,6 +466,12 @@ button[type="submit"]:hover{
     width: 500px;
 }
 
+.cpy{
+	text-align: center;
+	position: absolute;
+	top:128px;
+}
+
 
 @media  screen and (max-width: 460px) {
    #loader h2{
@@ -518,3 +524,5 @@ button[type="submit"]:hover{
         left: -6.5%;
     } 
 }
+
+
